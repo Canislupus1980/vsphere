@@ -1,17 +1,17 @@
 variable "username" {
-  default = "Administrator@vsphere.local"
+  default = "*"
 }
 
 variable "password" {
-  default = "zaq1@WSX"
+  default = "*"
 }
 
 variable "vcenter" {
-  default = "vcs.becloud.by"
+  default = "*"
 }
 
 variable "dc" {
-  default = "K.Marksa29"
+  default = "*"
 }
 
 variable "parent_folder" {
