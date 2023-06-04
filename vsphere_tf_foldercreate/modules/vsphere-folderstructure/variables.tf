@@ -1,5 +1,5 @@
 variable "dc" {
-  default = "K.Marksa29"
+  default = "*"
 }
 
 variable "parent_folder" {
